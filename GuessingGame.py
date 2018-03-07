@@ -1,7 +1,9 @@
+# ProblemID: guessinggame
+
+
 def main():
     low = 0
     high = 11
-    honest = True
     guess = int(input())
     while guess != 0:
         result = input()
@@ -18,7 +20,6 @@ def main():
                 print("Stan may be honest")    
             low = 0
             high = 11
-            honest = True
         guess = int(input())
     
 main()

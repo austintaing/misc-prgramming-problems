@@ -1,3 +1,6 @@
+# ProblemID: perfectpowers
+
+
 def main():
     x = int(input())
     while x != 0:

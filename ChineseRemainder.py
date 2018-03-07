@@ -1,3 +1,6 @@
+# ProblemID: chineseremainder
+
+
 def main():
     specs = int(input())
     for i in range(specs):
@@ -9,4 +12,6 @@ def main():
         x = (prob[0]*prob[3]*()+prob[2]*prob[1]*())%k
         
         print(x,k)
+
+
 main()

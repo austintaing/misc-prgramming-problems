@@ -1,3 +1,6 @@
+# ProblemID: judging
+
+
 def main():
     num = int(input())
     dom = {}
